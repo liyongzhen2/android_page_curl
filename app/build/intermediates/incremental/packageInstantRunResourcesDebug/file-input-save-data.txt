@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed Aug 23 23:48:22 SGT 2017
+2.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\obama.jpg
+5.set=ANDROID_RESOURCE
+3.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\taipei_101.jpg
+2.set=ANDROID_RESOURCE
+4.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\image1.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+5.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.set=ANDROID_RESOURCE
+6.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\world.gif
+9.set=ANDROID_RESOURCE
+9.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\road_rage.jpg
+1.set=ANDROID_RESOURCE
+7.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\image3.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

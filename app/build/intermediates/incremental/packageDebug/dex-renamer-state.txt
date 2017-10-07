@@ -1,0 +1,7 @@
+#Wed Aug 23 23:48:22 SGT 2017
+base.0=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_08e17b6c37afd0cf11a8d3584d7ec0c0fbb97536
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a3100d58e53554afb28c0fe78cfdeef800d6eeaa\\classes.dex
+base.1=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a3100d58e53554afb28c0fe78cfdeef800d6eeaa
+file.0=E\:\\8.23\\android_page_curl-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_08e17b6c37afd0cf11a8d3584d7ec0c0fbb97536\\classes.dex
